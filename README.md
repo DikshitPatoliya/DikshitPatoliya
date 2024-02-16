@@ -1,3 +1,4 @@
+[![MasterHead](https://github.com/DikshitPatoliya/DikshitPatoliya/blob/main/Creative%20Studio%20Name%20LinkedIn%20Article%20Cover%20Image.png)](https://dikshitpatoliya.com)
 <h1 align="center">Hi 👋, I'm Dikshit Patoliya</h1>
 <h3 align="center">A passionate mobile app developer from India</h3>
 
